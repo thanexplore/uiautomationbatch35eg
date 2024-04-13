@@ -3,6 +3,6 @@ public class Logintest {
         //write the logic for testing for loginpage
         //give the username, password, click on logic
         //have created methods for each behaviour of the login test
-        //new tester's changes
+        //new tester's changes are added
     }
 }
